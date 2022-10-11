@@ -1,0 +1,14 @@
+file based routing:
+
+1. no extra boilerplate code required
+2. intuitive routing
+
+topics :
+
+1. file based routing -
+2. catch all routes with [...routename].js
+3. dynamic routes declaration [id].js
+4. useRouter() 
+    - router.query
+    - router.push (navigate programmatically)
+5. Link component for navigating around
